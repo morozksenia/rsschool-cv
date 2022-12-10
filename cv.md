@@ -6,11 +6,13 @@
 * **Location:** New York, USA
 * **E-mail:** kseniamoroz92@gmail.com
 * **Github:** [morozksenia](https://github.com/morozksenia)
+
 ****
 ## _**About me:**_
 I started to work like web-designer and social-manager in [instagram](instagram.com) My interests: hiking, reading, cooking, traveling. I always try to learn something new every day and all my skills its just working on myself without stopping. If i have some problem i just use my experience or google for solving it.
 
 Some day i just understood that i have enough skills for getting new profession and improve my web-development experience. 
+
 *****
 ## _**My skills:**_
 * HTML
@@ -19,6 +21,7 @@ Some day i just understood that i have enough skills for getting new profession 
 * GitHub
 * Git
 * VS Code
+
 *****
 ## _**Code example:**_
 ```
@@ -34,9 +37,11 @@ while (src != null) {
 * Moscow Technological Institute (Management of technical systems)
 * RsSchool
 (JavaScript, FrontEnd)
+
 *****
 ## _**Languages:**_
 * English - intermediate
 * Russian - native
 * Serbian - basic
+
 ****
