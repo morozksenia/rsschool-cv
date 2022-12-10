@@ -35,3 +35,8 @@ while (src != null) {
 * RsSchool
 (JavaScript, FrontEnd)
 *****
+## _**Languages:**_
+* English - intermediate
+* Russian - native
+* Serbian - basic
+****
