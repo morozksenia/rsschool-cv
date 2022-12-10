@@ -28,3 +28,10 @@ while (src != null) {
     }
     return null
 }
+```
+*****
+## _**Education:**_
+* Moscow Technological Institute (Management of technical systems)
+* RsSchool
+(JavaScript, FrontEnd)
+*****
