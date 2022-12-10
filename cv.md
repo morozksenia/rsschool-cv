@@ -20,3 +20,11 @@ Some day i just understood that i have enough skills for getting new profession 
 * Git
 * VS Code
 *****
+## _**Code example:**_
+```
+function checkParent (src, dest) {
+while (src != null) {
+        if (src.tagName == dest return src = src.parentElement
+    }
+    return null
+}
