@@ -7,7 +7,8 @@
 - ***Email:*** kseniamoroz92@gmail.com
 - ***GitHub:*** [morozksenia]("https://github.com/morozksenia")
 
-
+## ***About Me***
+I am a skilled IT professional with experience in effectively applying my knowledge and skills to solve complex challenges. My expertise includes Git proficiency, web development, and system administration, enabling me to innovate and improve processes successfully. I am committed to continuous professional growth, thrive on new challenges, and am eager to demonstrate my value to team.
 
 
     
