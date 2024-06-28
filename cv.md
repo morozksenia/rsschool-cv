@@ -17,6 +17,11 @@ I am a skilled IT professional with experience in effectively applying my knowle
 - ***Git***
 - ***GPT***
 
+## ***Code Example***
+
+```
+console.log("Hello, world!");
+```
 
 ## ***Experience***
 - ***Remotask company:*** AI trainer 
