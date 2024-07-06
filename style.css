@@ -83,9 +83,7 @@
     border: 1px solid red;
 }
 
-.footer {
-    border: 1px solid red;
-}
+
 
 
 body {
@@ -104,6 +102,11 @@ body {
     color: #4d2323;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: 
+}
 
 .container {
     max-width: 1440px;
@@ -168,4 +171,13 @@ html {
   color: #829985;
 }
 
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0,5s;
+}
+
+.link:hover {
+  color: #5d7260;
+}
 
